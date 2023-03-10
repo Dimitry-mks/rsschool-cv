@@ -1,5 +1,6 @@
 # **DIMITRY MAKAS**
 ### **Junior Frontend Developer**
+---
 
 
 #### Contact information
