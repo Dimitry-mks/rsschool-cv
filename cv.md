@@ -1,3 +1,3 @@
-![Photo](D:\IMG_1505.jpg "my photo")
+![Photo](D:\IMG_1505.jpg)
 # Dimitry Makas
 #### REACT DEVELOPER
