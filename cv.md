@@ -4,8 +4,8 @@
 
 
 #### Contact
-Discord: Dimitry Makas  
-e-mail: dimiks.mks@gmail.com
+##### Discord: Dimitry Makas  
+##### e-mail: dimiks.mks@gmail.com
 ---
 
 
