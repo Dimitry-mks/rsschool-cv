@@ -22,12 +22,16 @@
 * Figma
 ---
 
-### Courses:
+### Courses
 
 * udemy.com (html, CSS)
 * htmlacademy.ru
 ---
+### I speak languages
 
+* Belarusian (native)
+* English (intermediate)
+* Russian 
 
 
 
