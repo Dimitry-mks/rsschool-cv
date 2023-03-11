@@ -10,28 +10,20 @@
 ##### e-mail: dimiks.mks@gmail.com
 ---
 
-
 ### About me
 ##### I work for an insurance broker and in my free time I study front-end. I chose this direction, because it gives unlimited possibilities in creativity. I also like to see the result of my work immediately.
 ---
-
 ### Skills
-
 * HTML, CSS, SASS, SCSS
 * JavaScript basics
 * Figma, Photshop
 * Git, GitHub  
-
 ---
-
-
 ### Courses
-
 * udemy.com (html, CSS)
 * htmlacademy.ru  
 ---
 ### I speak languages
-
 * Belarusian (native)
 * English (intermediate)
 * Russian 
