@@ -5,9 +5,9 @@
 ---
 
 ### Contact
-##### Location: Minsk, Belarus
-##### Discord: Dimitry #3318
-##### e-mail: dimiks.mks@gmail.com
+Location: Minsk, Belarus
+Discord: Dimitry #3318  
+e-mail: dimiks.mks@gmail.com
 
 ---
 
@@ -17,7 +17,6 @@ I work for an insurance broker and in my free time I study front-end. I chose th
 ---
 
 ### Skills
-
 * HTML, CSS, SASS, SCSS
 * JavaScript basics
 * Figma, Photshop
@@ -26,14 +25,12 @@ I work for an insurance broker and in my free time I study front-end. I chose th
 ---
 
 ### Courses
-
 * udemy.com (html, CSS)
 * htmlacademy.ru
 
 ---
 
 ### I speak languages
-
 * Belarusian (native)
 * English (intermediate)
 * Russian 
