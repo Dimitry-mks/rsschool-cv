@@ -18,10 +18,10 @@
 
 ### Skills
 
-* HTML, CSS, SASS, SCSS
-* JavaScript basics
-* Figma, Photshop
-* Git, GitHub  
+* ##### HTML, CSS, SASS, SCSS
+* ##### JavaScript basics
+* ##### Figma, Photshop
+* ##### Git, GitHub  
 ---
 ### Courses
 
