@@ -1,4 +1,4 @@
-![photo](./IMG_1505.jpg)
+![photo](../rsschool-cv/IMG_1505.jpg)
 # **DIMITRY MAKAS**
 ### **Junior Frontend Developer**
 ---
