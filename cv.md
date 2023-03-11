@@ -1,4 +1,4 @@
-![photo](D:\rs_school\IMG_1505.jpg "Моё фото")
+![photo](..\D:\rs_school\IMG_1505.jpg "Моё фото")
 # **DIMITRY MAKAS**
 ### **Junior Frontend Developer**
 ---
