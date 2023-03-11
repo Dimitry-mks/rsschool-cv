@@ -5,8 +5,10 @@
 ---
 
 ### Contact
-Location: Minsk, Belarus
-Discord: Dimitry #3318
+Location: Minsk, Belarus  
+
+Discord: Dimitry #3318  
+
 e-mail: dimiks.mks@gmail.com
 
 ---
