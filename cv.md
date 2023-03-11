@@ -3,6 +3,13 @@
 ---
 
 
-#### Contact information
-**Discord:** Dimitry #3318  
+#### Contact
+**Discord:** Dimitry Makas  
 **e-mail:** dimiks.mks@gmail.com
+---
+
+
+####About me
+
+
+
