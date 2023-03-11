@@ -22,7 +22,6 @@
 * Figma, Photshop
 * Git, GitHub
 ---
-
 ### Courses
 
 * udemy.com (html, CSS)
