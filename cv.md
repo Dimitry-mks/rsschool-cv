@@ -19,8 +19,8 @@
 
 * HTML, CSS, SASS, SCSS
 * JavaScript basics
+* Figma, Photshop
 * Git, GitHub
-* Figma
 ---
 
 ### Courses
