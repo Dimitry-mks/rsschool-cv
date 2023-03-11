@@ -17,10 +17,17 @@
 ### Skills
 
 * HTML, CSS, SASS, SCSS
-* JavaScript
+* JavaScript basics
 * Git, GitHub
 * Figma
 ---
+
+### Courses:
+
+* udemy.com (html, CSS)
+* htmlacademy.ru
+---
+
 
 
 
