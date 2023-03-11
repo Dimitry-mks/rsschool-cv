@@ -20,12 +20,15 @@
 * HTML, CSS, SASS, SCSS
 * JavaScript basics
 * Figma, Photshop
-* Git, GitHub
+* Git, GitHub  
+
 ---
+
+
 ### Courses
 
 * udemy.com (html, CSS)
-* htmlacademy.ru
+* htmlacademy.ru  
 ---
 ### I speak languages
 
